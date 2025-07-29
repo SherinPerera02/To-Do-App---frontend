@@ -1,4 +1,4 @@
-MERN To-Do App (Frontend)
+## MERN To-Do App (Frontend)
 
 This is the frontend React app for a full-stack To-Do application built using the MERN stack.
 
@@ -32,6 +32,7 @@ npm install
 npm run dev
 
 🌐 Environment
+
 Make sure the backend server is running on:
 
 http://localhost:5000
