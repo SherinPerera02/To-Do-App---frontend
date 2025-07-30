@@ -47,7 +47,7 @@ export default function App() {
 
   return (
     <div
-      className={`min-h-screen flex items-center justify-center p-4 transition-colors duration-300 ${darkMode ? 'bg-gradient-to-br from-gray-950 to-gray-700' : 'bg-gradient-to-br from-indigo-300 to-pink-300'}`}
+      className={`min-h-screen flex items-center justify-center p-4 transition-colors duration-300 ${darkMode ? 'bg-gradient-to-br from-gray-950 to-gray-700' : 'bg-gradient-to-br from-indigo-400 to-blue-200'}`}
     >
       <Toaster position="top-center" />
       <div className={`rounded-2xl shadow-xl p-6 w-full max-w-md transition-all duration-300 border ${darkMode ? 'bg-gray-800 border-gray-800' : 'bg-indigo-100 border-gray-200'} animate-fade-in` }>
